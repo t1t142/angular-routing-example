@@ -1,4 +1,7 @@
 :host {
   background: #FFFE55;
-  padding: 30px
+  
+}
+.red {
+  background-color: red;
 }

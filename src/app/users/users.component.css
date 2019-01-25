@@ -1,8 +1,18 @@
 :host {
-  padding: 30px
+  height: 100%;
+ 
 }
 .yellow {
  
   background-color: yellow;
+  flex: 1;
+  height: 100%;
+}
+article {
+  flex: 1;
+  height: 100%;
+}
 
+section {
+ 
 }
